@@ -1,3 +1,6 @@
+% SuperComputação
+% Igor Montagner
+
 ## Questão 3 (4,0)
 
 Nessa questão final iremos trabalhar com imagens em cores. Nosso objetivo será criar 4 processamentos de imagens a serem realizados na GPU. Para isto você deverá usar as funções definidas nos arquivos *imagem.cpp/h*.

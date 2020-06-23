@@ -1,3 +1,6 @@
+% SuperComputação
+% Igor Montagner
+
 ## Questão 1 (3,0)
 
 Nesta questão seu trabalho será descobrir todos os *números triangulares* entre 1 e 100.000.000.000. Um número é triangular se ele é a contagem de objetos que formariam um triângulo equilátero "empilhando" bolinhas. Veja a figura abaixo.

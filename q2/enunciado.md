@@ -1,3 +1,6 @@
+% SuperComputação
+% Igor Montagner
+
 ## Questão 2 (3,0)
 
 A flutuação de preços de ações pode ser modelada com séries temporais e sorteios aleatórios. Iremos adotar o seguinte procedimento de simulação, dado um preço inicial $T_0$:
